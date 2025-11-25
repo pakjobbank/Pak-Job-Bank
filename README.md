@@ -1,1 +1,17 @@
-# Pak-Job-Bank
+# Pak-Job-Bankpak-job-bank/
+├─ index.html
+├─ latest.html
+├─ government.html
+├─ private.html
+├─ ppsc-fpsc.html
+├─ forces.html
+├─ banking.html
+├─ about.html
+├─ contact.html
+├─ assets/
+│  ├─ css/
+│  │  └─ style.css
+│  ├─ js/
+│  │  └─ main.js
+│  └─ img/
+│     └─ logo-placeholder.png   (or create your own)
